@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [ElementCustomColor.js](./CS/Dashboard_ElementCustomColor_Web/Scripts/ElementCustomColor.js) (VB: [ElementCustomColor.js](./VB/Dashboard_ElementCustomColor_Web/Scripts/ElementCustomColor.js))
-* [WebForm1.aspx](./CS/Dashboard_ElementCustomColor_Web/WebForm1.aspx) (VB: [WebForm1.aspx.vb](./VB/Dashboard_ElementCustomColor_Web/WebForm1.aspx.vb))
+* [WebForm1.aspx](./CS/Dashboard_ElementCustomColor_Web/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_ElementCustomColor_Web/WebForm1.aspx))
 * [WebForm1.aspx.cs](./CS/Dashboard_ElementCustomColor_Web/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/Dashboard_ElementCustomColor_Web/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to color dashboard item elements in the Web Viewer
