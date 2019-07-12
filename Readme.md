@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to color dashboard item elements in the Web Viewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t198119)**
+**[[Run Online]](https://codecentral.devexpress.com/t198119/)**
 <!-- run online end -->
 
 
